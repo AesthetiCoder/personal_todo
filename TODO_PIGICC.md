@@ -39,9 +39,24 @@
 - [ ] Set up accounting system
 
 - [ ] Designate a work place
+- [ ] Order supplies
 - [ ] Create sample products
 - [ ] Create an inventory list
 - [ ] Create a pricing list
+
+- [ ] Choose brand color
+- [ ] Design logo
+- [ ] Create a tag-line
+- [ ] Order business cards
+- [ ] Design products packaging
+
+- [ ] Open business banking account
+- [ ] Create a Paypal account
+- [ ] Create order management system
+- [ ] Purchase mobile POS system
+
+- [ ] Sign up for Google analytics
+- [ ] Sign up for Google search console
 
 ## Products
 
@@ -52,18 +67,24 @@
 ## Design
 
 - [ ] Design system
-  - [ ] Colors
-  - [ ] Typography
-  - [ ] Grid
-  - [ ] Spacing
-  - [ ] Shadow
-  - [ ] Border
-  - [ ] Border radius
-  - [ ] Images
-  - [ ] Icons
-  - [ ] Illustrations
+  - [x] Colors
+  - [x] Typography
+  - [x] Grid
+  - [x] Spacing
+  - [x] Shadow
+  - [x] Border
+  - [x] Border radius
+  - [x] Images
+  - [x] Icons
+  - [ ] Sounds
+  - [x] Illustrations
   - [ ] Voice and tone
 - [ ] Case study
+
+- [x] Mockups
+  - [x] Desktop mockup
+  - [x] Tablet mockup
+  - [x] Phone mockup
 
 ## Social networks
 
